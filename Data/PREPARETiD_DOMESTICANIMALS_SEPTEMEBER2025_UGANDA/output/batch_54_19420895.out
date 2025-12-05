@@ -1,0 +1,69 @@
+2025-12-04 22:15:02,360 - INFO - Found BLAST database files for ../DB/ref_viruses_rep_genomes: ['../DB/ref_viruses_rep_genomes.nhr']
+2025-12-04 22:15:02,363 - INFO - Found BLAST database files for ../DB/ref_prok_rep_genomes: ['../DB/ref_prok_rep_genomes.05.nhr', '../DB/ref_prok_rep_genomes.02.nhr', '../DB/ref_prok_rep_genomes.21.nhr', '../DB/ref_prok_rep_genomes.13.nhr', '../DB/ref_prok_rep_genomes.14.nhr', '../DB/ref_prok_rep_genomes.03.nhr', '../DB/ref_prok_rep_genomes.04.nhr', '../DB/ref_prok_rep_genomes.15.nhr', '../DB/ref_prok_rep_genomes.12.nhr', '../DB/ref_prok_rep_genomes.20.nhr', '../DB/ref_prok_rep_genomes.11.nhr', '../DB/ref_prok_rep_genomes.16.nhr', '../DB/ref_prok_rep_genomes.18.nhr', '../DB/ref_prok_rep_genomes.23.nhr', '../DB/ref_prok_rep_genomes.24.nhr', '../DB/ref_prok_rep_genomes.09.nhr', '../DB/ref_prok_rep_genomes.07.nhr', '../DB/ref_prok_rep_genomes.00.nhr', '../DB/ref_prok_rep_genomes.22.nhr', '../DB/ref_prok_rep_genomes.19.nhr', '../DB/ref_prok_rep_genomes.17.nhr', '../DB/ref_prok_rep_genomes.10.nhr', '../DB/ref_prok_rep_genomes.01.nhr', '../DB/ref_prok_rep_genomes.06.nhr', '../DB/ref_prok_rep_genomes.08.nhr']
+2025-12-04 22:15:02,366 - INFO - Found BLAST database files for ../DB/ref_euk_rep_genomes: ['../DB/ref_euk_rep_genomes.021.nhr', '../DB/ref_euk_rep_genomes.105.nhr', '../DB/ref_euk_rep_genomes.102.nhr', '../DB/ref_euk_rep_genomes.026.nhr', '../DB/ref_euk_rep_genomes.085.nhr', '../DB/ref_euk_rep_genomes.054.nhr', '../DB/ref_euk_rep_genomes.028.nhr', '../DB/ref_euk_rep_genomes.082.nhr', '../DB/ref_euk_rep_genomes.053.nhr', '../DB/ref_euk_rep_genomes.142.nhr', '../DB/ref_euk_rep_genomes.066.nhr', '../DB/ref_euk_rep_genomes.061.nhr', '../DB/ref_euk_rep_genomes.139.nhr', '../DB/ref_euk_rep_genomes.145.nhr', '../DB/ref_euk_rep_genomes.137.nhr', '../DB/ref_euk_rep_genomes.013.nhr', '../DB/ref_euk_rep_genomes.014.nhr', '../DB/ref_euk_rep_genomes.068.nhr', '../DB/ref_euk_rep_genomes.130.nhr', '../DB/ref_euk_rep_genomes.005.nhr', '../DB/ref_euk_rep_genomes.121.nhr', '../DB/ref_euk_rep_genomes.079.nhr', '../DB/ref_euk_rep_genomes.126.nhr', '../DB/ref_euk_rep_genomes.002.nhr', '../DB/ref_euk_rep_genomes.128.nhr', '../DB/ref_euk_rep_genomes.070.nhr', '../DB/ref_euk_rep_genomes.154.nhr', '../DB/ref_euk_rep_genomes.153.nhr', '../DB/ref_euk_rep_genomes.077.nhr', '../DB/ref_euk_rep_genomes.042.nhr', '../DB/ref_euk_rep_genomes.093.nhr', '../DB/ref_euk_rep_genomes.045.nhr', '../DB/ref_euk_rep_genomes.094.nhr', '../DB/ref_euk_rep_genomes.161.nhr', '../DB/ref_euk_rep_genomes.039.nhr', '../DB/ref_euk_rep_genomes.113.nhr', '../DB/ref_euk_rep_genomes.037.nhr', '../DB/ref_euk_rep_genomes.030.nhr', '../DB/ref_euk_rep_genomes.114.nhr', '../DB/ref_euk_rep_genomes.015.nhr', '../DB/ref_euk_rep_genomes.069.nhr', '../DB/ref_euk_rep_genomes.131.nhr', '../DB/ref_euk_rep_genomes.136.nhr', '../DB/ref_euk_rep_genomes.012.nhr', '../DB/ref_euk_rep_genomes.060.nhr', '../DB/ref_euk_rep_genomes.138.nhr', '../DB/ref_euk_rep_genomes.144.nhr', '../DB/ref_euk_rep_genomes.143.nhr', '../DB/ref_euk_rep_genomes.067.nhr', '../DB/ref_euk_rep_genomes.083.nhr', '../DB/ref_euk_rep_genomes.052.nhr', '../DB/ref_euk_rep_genomes.084.nhr', '../DB/ref_euk_rep_genomes.055.nhr', '../DB/ref_euk_rep_genomes.029.nhr', '../DB/ref_euk_rep_genomes.103.nhr', '../DB/ref_euk_rep_genomes.027.nhr', '../DB/ref_euk_rep_genomes.020.nhr', '../DB/ref_euk_rep_genomes.104.nhr', '../DB/ref_euk_rep_genomes.031.nhr', '../DB/ref_euk_rep_genomes.115.nhr', '../DB/ref_euk_rep_genomes.112.nhr', '../DB/ref_euk_rep_genomes.036.nhr', '../DB/ref_euk_rep_genomes.044.nhr', '../DB/ref_euk_rep_genomes.095.nhr', '../DB/ref_euk_rep_genomes.160.nhr', '../DB/ref_euk_rep_genomes.038.nhr', '../DB/ref_euk_rep_genomes.043.nhr', '../DB/ref_euk_rep_genomes.092.nhr', '../DB/ref_euk_rep_genomes.152.nhr', '../DB/ref_euk_rep_genomes.076.nhr', '../DB/ref_euk_rep_genomes.129.nhr', '../DB/ref_euk_rep_genomes.071.nhr', '../DB/ref_euk_rep_genomes.155.nhr', '../DB/ref_euk_rep_genomes.127.nhr', '../DB/ref_euk_rep_genomes.003.nhr', '../DB/ref_euk_rep_genomes.004.nhr', '../DB/ref_euk_rep_genomes.120.nhr', '../DB/ref_euk_rep_genomes.078.nhr', '../DB/ref_euk_rep_genomes.111.nhr', '../DB/ref_euk_rep_genomes.049.nhr', '../DB/ref_euk_rep_genomes.098.nhr', '../DB/ref_euk_rep_genomes.035.nhr', '../DB/ref_euk_rep_genomes.032.nhr', '../DB/ref_euk_rep_genomes.116.nhr', '../DB/ref_euk_rep_genomes.118.nhr', '../DB/ref_euk_rep_genomes.040.nhr', '../DB/ref_euk_rep_genomes.091.nhr', '../DB/ref_euk_rep_genomes.047.nhr', '../DB/ref_euk_rep_genomes.096.nhr', '../DB/ref_euk_rep_genomes.072.nhr', '../DB/ref_euk_rep_genomes.156.nhr', '../DB/ref_euk_rep_genomes.151.nhr', '../DB/ref_euk_rep_genomes.009.nhr', '../DB/ref_euk_rep_genomes.075.nhr', '../DB/ref_euk_rep_genomes.007.nhr', '../DB/ref_euk_rep_genomes.123.nhr', '../DB/ref_euk_rep_genomes.124.nhr', '../DB/ref_euk_rep_genomes.158.nhr', '../DB/ref_euk_rep_genomes.000.nhr', '../DB/ref_euk_rep_genomes.135.nhr', '../DB/ref_euk_rep_genomes.011.nhr', '../DB/ref_euk_rep_genomes.149.nhr', '../DB/ref_euk_rep_genomes.016.nhr', '../DB/ref_euk_rep_genomes.132.nhr', '../DB/ref_euk_rep_genomes.018.nhr', '../DB/ref_euk_rep_genomes.140.nhr', '../DB/ref_euk_rep_genomes.064.nhr', '../DB/ref_euk_rep_genomes.063.nhr', '../DB/ref_euk_rep_genomes.147.nhr', '../DB/ref_euk_rep_genomes.087.nhr', '../DB/ref_euk_rep_genomes.056.nhr', '../DB/ref_euk_rep_genomes.080.nhr', '../DB/ref_euk_rep_genomes.051.nhr', '../DB/ref_euk_rep_genomes.109.nhr', '../DB/ref_euk_rep_genomes.023.nhr', '../DB/ref_euk_rep_genomes.107.nhr', '../DB/ref_euk_rep_genomes.089.nhr', '../DB/ref_euk_rep_genomes.058.nhr', '../DB/ref_euk_rep_genomes.100.nhr', '../DB/ref_euk_rep_genomes.024.nhr', '../DB/ref_euk_rep_genomes.125.nhr', '../DB/ref_euk_rep_genomes.159.nhr', '../DB/ref_euk_rep_genomes.001.nhr', '../DB/ref_euk_rep_genomes.006.nhr', '../DB/ref_euk_rep_genomes.122.nhr', '../DB/ref_euk_rep_genomes.150.nhr', '../DB/ref_euk_rep_genomes.008.nhr', '../DB/ref_euk_rep_genomes.074.nhr', '../DB/ref_euk_rep_genomes.073.nhr', '../DB/ref_euk_rep_genomes.157.nhr', '../DB/ref_euk_rep_genomes.046.nhr', '../DB/ref_euk_rep_genomes.097.nhr', '../DB/ref_euk_rep_genomes.119.nhr', '../DB/ref_euk_rep_genomes.041.nhr', '../DB/ref_euk_rep_genomes.090.nhr', '../DB/ref_euk_rep_genomes.033.nhr', '../DB/ref_euk_rep_genomes.117.nhr', '../DB/ref_euk_rep_genomes.110.nhr', '../DB/ref_euk_rep_genomes.048.nhr', '../DB/ref_euk_rep_genomes.099.nhr', '../DB/ref_euk_rep_genomes.034.nhr', '../DB/ref_euk_rep_genomes.088.nhr', '../DB/ref_euk_rep_genomes.059.nhr', '../DB/ref_euk_rep_genomes.101.nhr', '../DB/ref_euk_rep_genomes.025.nhr', '../DB/ref_euk_rep_genomes.022.nhr', '../DB/ref_euk_rep_genomes.106.nhr', '../DB/ref_euk_rep_genomes.081.nhr', '../DB/ref_euk_rep_genomes.050.nhr', '../DB/ref_euk_rep_genomes.108.nhr', '../DB/ref_euk_rep_genomes.086.nhr', '../DB/ref_euk_rep_genomes.057.nhr', '../DB/ref_euk_rep_genomes.062.nhr', '../DB/ref_euk_rep_genomes.146.nhr', '../DB/ref_euk_rep_genomes.019.nhr', '../DB/ref_euk_rep_genomes.141.nhr', '../DB/ref_euk_rep_genomes.065.nhr', '../DB/ref_euk_rep_genomes.017.nhr', '../DB/ref_euk_rep_genomes.133.nhr', '../DB/ref_euk_rep_genomes.134.nhr', '../DB/ref_euk_rep_genomes.010.nhr', '../DB/ref_euk_rep_genomes.148.nhr']
+2025-12-04 22:15:07,161 - INFO - blastn is installed and accessible
+2025-12-04 22:15:07,163 - INFO - Initialized PathogenSimilarityAnalyzer for /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/barcode63 (platform: nanopore, strictness: Fast, file_exts: ['fastq.gz'])
+2025-12-04 22:15:07,172 - INFO - Loaded BLAST parameters from strictness_setting.yaml
+2025-12-04 22:15:07,173 - INFO - Starting analysis for /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/barcode63 (platform: nanopore, strictness: Fast)
+2025-12-04 22:15:07,173 - INFO - Preprocessing reads...
+2025-12-04 22:15:07,173 - INFO - Preprocessing reads for nanopore
+2025-12-04 22:15:07,173 - INFO - Nanopore preprocessing: Consider running Porechop for adapter trimming
+2025-12-04 22:15:07,173 - INFO - Loading reads...
+2025-12-04 22:15:07,175 - INFO - Found 1 files
+Processing files:   0%|          | 0/1 [00:00<?, ?it/s]Processing files: 100%|██████████| 1/1 [00:00<00:00, 631.39it/s]
+2025-12-04 22:15:07,181 - INFO - Processed 1 reads → /tmp/tmpa4cv0tg6/all_reads.fasta
+2025-12-04 22:15:07,181 - INFO - Loaded qualities for 1 reads.
+2025-12-04 22:15:07,182 - INFO - Running BLAST analysis with nanopore and Fast parameters...
+2025-12-04 22:15:07,182 - INFO - Running BLAST command against ../DB/ref_viruses_rep_genomes with 64 threads: blastn -db ../DB/ref_viruses_rep_genomes -query /tmp/tmpa4cv0tg6/all_reads.fasta -outfmt 5 -out /tmp/tmpa4cv0tg6/all_reads_ref_viruses_rep_genomes.xml -evalue 100.0 -word_size 20 -perc_identity 55 -max_target_seqs 8 -qcov_hsp_perc 25 -gapopen 12 -gapextend 6 -num_threads 64 -task megablast
+2025-12-04 22:15:09,486 - INFO - BLAST completed against ../DB/ref_viruses_rep_genomes
+Processing BLAST records (ref_viruses_rep_genomes): 0it [00:00, ?it/s]Processing BLAST records (ref_viruses_rep_genomes): 1it [00:00, 533.90it/s]
+2025-12-04 22:15:09,491 - INFO - Running BLAST command against ../DB/ref_prok_rep_genomes with 64 threads: blastn -db ../DB/ref_prok_rep_genomes -query /tmp/tmpa4cv0tg6/all_reads.fasta -outfmt 5 -out /tmp/tmpa4cv0tg6/all_reads_ref_prok_rep_genomes.xml -evalue 100.0 -word_size 20 -perc_identity 55 -max_target_seqs 8 -qcov_hsp_perc 25 -gapopen 12 -gapextend 6 -num_threads 64 -task megablast
+2025-12-04 22:17:00,993 - INFO - BLAST completed against ../DB/ref_prok_rep_genomes
+Processing BLAST records (ref_prok_rep_genomes): 0it [00:00, ?it/s]Processing BLAST records (ref_prok_rep_genomes): 1it [00:00, 2242.94it/s]
+2025-12-04 22:17:00,995 - INFO - Running BLAST command against ../DB/ref_euk_rep_genomes with 64 threads: blastn -db ../DB/ref_euk_rep_genomes -query /tmp/tmpa4cv0tg6/all_reads.fasta -outfmt 5 -out /tmp/tmpa4cv0tg6/all_reads_ref_euk_rep_genomes.xml -evalue 100.0 -word_size 20 -perc_identity 55 -max_target_seqs 8 -qcov_hsp_perc 25 -gapopen 12 -gapextend 6 -num_threads 64 -task megablast
+2025-12-04 22:44:03,338 - INFO - BLAST completed against ../DB/ref_euk_rep_genomes
+Processing BLAST records (ref_euk_rep_genomes): 0it [00:00, ?it/s]Processing BLAST records (ref_euk_rep_genomes): 1it [00:00, 193.97it/s]
+2025-12-04 22:44:03,420 - INFO - Found 1 pathogen hits.
+2025-12-04 22:44:03,421 - INFO - Fetching taxonomy for 1 unique accessions with rate limit.
+Fetching taxonomy:   0%|          | 0/1 [00:00<?, ?it/s]Fetching taxonomy: 100%|██████████| 1/1 [00:00<00:00,  1.98it/s]Fetching taxonomy: 100%|██████████| 1/1 [00:00<00:00,  1.97it/s]
+Applying taxonomy and filtering:   0%|          | 0/1 [00:00<?, ?it/s]Applying taxonomy and filtering: 100%|██████████| 1/1 [00:00<00:00, 4604.07it/s]
+2025-12-04 22:44:04,918 - INFO - Filtered and sorted 0 hits with similarity > 0% and valid pathogen type (Virus, Bacteria, Parasite)
+2025-12-04 22:44:04,919 - INFO - Creating report directory: /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report
+2025-12-04 22:44:05,224 - INFO - Report saved → /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode63_sim_report.xlsx
+2025-12-04 22:44:05,225 - INFO - Cleaned up temporary directory: /tmp/tmpa4cv0tg6
+2025-12-04 22:44:06,460 - INFO - Loaded cache from pathogen_cache.json with 7787 entries
+2025-12-04 22:44:06,462 - INFO - Initialized PathogenClassifier for /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode63_sim_report.xlsx
+2025-12-04 22:44:06,712 - INFO - Read 'Distilled Report' sheet with 0 rows
+2025-12-04 22:44:06,712 - INFO - Classifying 0 unique binomial names
+0it [00:00, ?it/s]0it [00:00, ?it/s]
+Classifying binomial names: 0it [00:00, ?it/s]Classifying binomial names: 0it [00:00, ?it/s]
+Traceback (most recent call last):
+  File "/work/ia29ipap-PRJs/PRJS/APD/Src/excel_pathogen_filter.py", line 172, in <module>
+    main()
+    ~~~~^^
+  File "/work/ia29ipap-PRJs/PRJS/APD/Src/excel_pathogen_filter.py", line 168, in main
+    classifier.classify()
+    ~~~~~~~~~~~~~~~~~~~^^
+  File "/work/ia29ipap-PRJs/PRJS/APD/Src/excel_pathogen_filter.py", line 144, in classify
+    self.pathogenic_df = self.distilled_df[self.distilled_df["Is Pathogenic"]].drop(columns=["Is Pathogenic"])
+                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/work/ia29ipap-PRJs/PRJS/conda_pkgs/envs/APD/lib/python3.13/site-packages/pandas/core/frame.py", line 5603, in drop
+    return super().drop(
+           ~~~~~~~~~~~~^
+        labels=labels,
+        ^^^^^^^^^^^^^^
+    ...<5 lines>...
+        errors=errors,
+        ^^^^^^^^^^^^^^
+    )
+    ^
+  File "/work/ia29ipap-PRJs/PRJS/conda_pkgs/envs/APD/lib/python3.13/site-packages/pandas/core/generic.py", line 4810, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "/work/ia29ipap-PRJs/PRJS/conda_pkgs/envs/APD/lib/python3.13/site-packages/pandas/core/generic.py", line 4852, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "/work/ia29ipap-PRJs/PRJS/conda_pkgs/envs/APD/lib/python3.13/site-packages/pandas/core/indexes/base.py", line 7136, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['Is Pathogenic'] not found in axis"
+Analyzing microbes for pathogenicity: 0it [00:00, ?it/s]Analyzing microbes for pathogenicity: 0it [00:00, ?it/s]
+Updated Excel file with new sheet 'Distilled Report with Pathogenicity' saved to /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode63_sim_report.xlsx
+Finished processing /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/barcode63

@@ -1,0 +1,3 @@
+full pathogen name,similarity value,used tools,coverage ratio,Length of that exact read,quality of read
+"gi|849255230|ref|NC_027382.1| Enterobacteria phage SfMu, complete genome",100.00,BLASTN,0.22,172,16.93
+"gi|9633494|ref|NC_000929.1| Enterobacteria phage Mu, complete genome",100.00,BLASTN,0.22,172,16.93

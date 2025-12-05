@@ -1,0 +1,7 @@
+I have two folders each of them has some subfolders their name started by barcode.
+some of them identical in both folder and some only in one,but finally I want to combine them in the third derstination folder that contains the union of folders and their content can come from the first source, second source or both 
+
+
+provide python oop with usecase in main function in show open file dialog to select the first and second source folders and provide ability to set the path and name for destination folder 
+then use tqdm to show the progressbar of transfer progress of combination
+

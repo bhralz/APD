@@ -1,0 +1,291 @@
+2025-12-04 18:52:22,852 - INFO - Found BLAST database files for ../DB/ref_viruses_rep_genomes: ['../DB/ref_viruses_rep_genomes.nhr']
+2025-12-04 18:52:22,854 - INFO - Found BLAST database files for ../DB/ref_prok_rep_genomes: ['../DB/ref_prok_rep_genomes.05.nhr', '../DB/ref_prok_rep_genomes.02.nhr', '../DB/ref_prok_rep_genomes.21.nhr', '../DB/ref_prok_rep_genomes.13.nhr', '../DB/ref_prok_rep_genomes.14.nhr', '../DB/ref_prok_rep_genomes.03.nhr', '../DB/ref_prok_rep_genomes.04.nhr', '../DB/ref_prok_rep_genomes.15.nhr', '../DB/ref_prok_rep_genomes.12.nhr', '../DB/ref_prok_rep_genomes.20.nhr', '../DB/ref_prok_rep_genomes.11.nhr', '../DB/ref_prok_rep_genomes.16.nhr', '../DB/ref_prok_rep_genomes.18.nhr', '../DB/ref_prok_rep_genomes.23.nhr', '../DB/ref_prok_rep_genomes.24.nhr', '../DB/ref_prok_rep_genomes.09.nhr', '../DB/ref_prok_rep_genomes.07.nhr', '../DB/ref_prok_rep_genomes.00.nhr', '../DB/ref_prok_rep_genomes.22.nhr', '../DB/ref_prok_rep_genomes.19.nhr', '../DB/ref_prok_rep_genomes.17.nhr', '../DB/ref_prok_rep_genomes.10.nhr', '../DB/ref_prok_rep_genomes.01.nhr', '../DB/ref_prok_rep_genomes.06.nhr', '../DB/ref_prok_rep_genomes.08.nhr']
+2025-12-04 18:52:22,856 - INFO - Found BLAST database files for ../DB/ref_euk_rep_genomes: ['../DB/ref_euk_rep_genomes.021.nhr', '../DB/ref_euk_rep_genomes.105.nhr', '../DB/ref_euk_rep_genomes.102.nhr', '../DB/ref_euk_rep_genomes.026.nhr', '../DB/ref_euk_rep_genomes.085.nhr', '../DB/ref_euk_rep_genomes.054.nhr', '../DB/ref_euk_rep_genomes.028.nhr', '../DB/ref_euk_rep_genomes.082.nhr', '../DB/ref_euk_rep_genomes.053.nhr', '../DB/ref_euk_rep_genomes.142.nhr', '../DB/ref_euk_rep_genomes.066.nhr', '../DB/ref_euk_rep_genomes.061.nhr', '../DB/ref_euk_rep_genomes.139.nhr', '../DB/ref_euk_rep_genomes.145.nhr', '../DB/ref_euk_rep_genomes.137.nhr', '../DB/ref_euk_rep_genomes.013.nhr', '../DB/ref_euk_rep_genomes.014.nhr', '../DB/ref_euk_rep_genomes.068.nhr', '../DB/ref_euk_rep_genomes.130.nhr', '../DB/ref_euk_rep_genomes.005.nhr', '../DB/ref_euk_rep_genomes.121.nhr', '../DB/ref_euk_rep_genomes.079.nhr', '../DB/ref_euk_rep_genomes.126.nhr', '../DB/ref_euk_rep_genomes.002.nhr', '../DB/ref_euk_rep_genomes.128.nhr', '../DB/ref_euk_rep_genomes.070.nhr', '../DB/ref_euk_rep_genomes.154.nhr', '../DB/ref_euk_rep_genomes.153.nhr', '../DB/ref_euk_rep_genomes.077.nhr', '../DB/ref_euk_rep_genomes.042.nhr', '../DB/ref_euk_rep_genomes.093.nhr', '../DB/ref_euk_rep_genomes.045.nhr', '../DB/ref_euk_rep_genomes.094.nhr', '../DB/ref_euk_rep_genomes.161.nhr', '../DB/ref_euk_rep_genomes.039.nhr', '../DB/ref_euk_rep_genomes.113.nhr', '../DB/ref_euk_rep_genomes.037.nhr', '../DB/ref_euk_rep_genomes.030.nhr', '../DB/ref_euk_rep_genomes.114.nhr', '../DB/ref_euk_rep_genomes.015.nhr', '../DB/ref_euk_rep_genomes.069.nhr', '../DB/ref_euk_rep_genomes.131.nhr', '../DB/ref_euk_rep_genomes.136.nhr', '../DB/ref_euk_rep_genomes.012.nhr', '../DB/ref_euk_rep_genomes.060.nhr', '../DB/ref_euk_rep_genomes.138.nhr', '../DB/ref_euk_rep_genomes.144.nhr', '../DB/ref_euk_rep_genomes.143.nhr', '../DB/ref_euk_rep_genomes.067.nhr', '../DB/ref_euk_rep_genomes.083.nhr', '../DB/ref_euk_rep_genomes.052.nhr', '../DB/ref_euk_rep_genomes.084.nhr', '../DB/ref_euk_rep_genomes.055.nhr', '../DB/ref_euk_rep_genomes.029.nhr', '../DB/ref_euk_rep_genomes.103.nhr', '../DB/ref_euk_rep_genomes.027.nhr', '../DB/ref_euk_rep_genomes.020.nhr', '../DB/ref_euk_rep_genomes.104.nhr', '../DB/ref_euk_rep_genomes.031.nhr', '../DB/ref_euk_rep_genomes.115.nhr', '../DB/ref_euk_rep_genomes.112.nhr', '../DB/ref_euk_rep_genomes.036.nhr', '../DB/ref_euk_rep_genomes.044.nhr', '../DB/ref_euk_rep_genomes.095.nhr', '../DB/ref_euk_rep_genomes.160.nhr', '../DB/ref_euk_rep_genomes.038.nhr', '../DB/ref_euk_rep_genomes.043.nhr', '../DB/ref_euk_rep_genomes.092.nhr', '../DB/ref_euk_rep_genomes.152.nhr', '../DB/ref_euk_rep_genomes.076.nhr', '../DB/ref_euk_rep_genomes.129.nhr', '../DB/ref_euk_rep_genomes.071.nhr', '../DB/ref_euk_rep_genomes.155.nhr', '../DB/ref_euk_rep_genomes.127.nhr', '../DB/ref_euk_rep_genomes.003.nhr', '../DB/ref_euk_rep_genomes.004.nhr', '../DB/ref_euk_rep_genomes.120.nhr', '../DB/ref_euk_rep_genomes.078.nhr', '../DB/ref_euk_rep_genomes.111.nhr', '../DB/ref_euk_rep_genomes.049.nhr', '../DB/ref_euk_rep_genomes.098.nhr', '../DB/ref_euk_rep_genomes.035.nhr', '../DB/ref_euk_rep_genomes.032.nhr', '../DB/ref_euk_rep_genomes.116.nhr', '../DB/ref_euk_rep_genomes.118.nhr', '../DB/ref_euk_rep_genomes.040.nhr', '../DB/ref_euk_rep_genomes.091.nhr', '../DB/ref_euk_rep_genomes.047.nhr', '../DB/ref_euk_rep_genomes.096.nhr', '../DB/ref_euk_rep_genomes.072.nhr', '../DB/ref_euk_rep_genomes.156.nhr', '../DB/ref_euk_rep_genomes.151.nhr', '../DB/ref_euk_rep_genomes.009.nhr', '../DB/ref_euk_rep_genomes.075.nhr', '../DB/ref_euk_rep_genomes.007.nhr', '../DB/ref_euk_rep_genomes.123.nhr', '../DB/ref_euk_rep_genomes.124.nhr', '../DB/ref_euk_rep_genomes.158.nhr', '../DB/ref_euk_rep_genomes.000.nhr', '../DB/ref_euk_rep_genomes.135.nhr', '../DB/ref_euk_rep_genomes.011.nhr', '../DB/ref_euk_rep_genomes.149.nhr', '../DB/ref_euk_rep_genomes.016.nhr', '../DB/ref_euk_rep_genomes.132.nhr', '../DB/ref_euk_rep_genomes.018.nhr', '../DB/ref_euk_rep_genomes.140.nhr', '../DB/ref_euk_rep_genomes.064.nhr', '../DB/ref_euk_rep_genomes.063.nhr', '../DB/ref_euk_rep_genomes.147.nhr', '../DB/ref_euk_rep_genomes.087.nhr', '../DB/ref_euk_rep_genomes.056.nhr', '../DB/ref_euk_rep_genomes.080.nhr', '../DB/ref_euk_rep_genomes.051.nhr', '../DB/ref_euk_rep_genomes.109.nhr', '../DB/ref_euk_rep_genomes.023.nhr', '../DB/ref_euk_rep_genomes.107.nhr', '../DB/ref_euk_rep_genomes.089.nhr', '../DB/ref_euk_rep_genomes.058.nhr', '../DB/ref_euk_rep_genomes.100.nhr', '../DB/ref_euk_rep_genomes.024.nhr', '../DB/ref_euk_rep_genomes.125.nhr', '../DB/ref_euk_rep_genomes.159.nhr', '../DB/ref_euk_rep_genomes.001.nhr', '../DB/ref_euk_rep_genomes.006.nhr', '../DB/ref_euk_rep_genomes.122.nhr', '../DB/ref_euk_rep_genomes.150.nhr', '../DB/ref_euk_rep_genomes.008.nhr', '../DB/ref_euk_rep_genomes.074.nhr', '../DB/ref_euk_rep_genomes.073.nhr', '../DB/ref_euk_rep_genomes.157.nhr', '../DB/ref_euk_rep_genomes.046.nhr', '../DB/ref_euk_rep_genomes.097.nhr', '../DB/ref_euk_rep_genomes.119.nhr', '../DB/ref_euk_rep_genomes.041.nhr', '../DB/ref_euk_rep_genomes.090.nhr', '../DB/ref_euk_rep_genomes.033.nhr', '../DB/ref_euk_rep_genomes.117.nhr', '../DB/ref_euk_rep_genomes.110.nhr', '../DB/ref_euk_rep_genomes.048.nhr', '../DB/ref_euk_rep_genomes.099.nhr', '../DB/ref_euk_rep_genomes.034.nhr', '../DB/ref_euk_rep_genomes.088.nhr', '../DB/ref_euk_rep_genomes.059.nhr', '../DB/ref_euk_rep_genomes.101.nhr', '../DB/ref_euk_rep_genomes.025.nhr', '../DB/ref_euk_rep_genomes.022.nhr', '../DB/ref_euk_rep_genomes.106.nhr', '../DB/ref_euk_rep_genomes.081.nhr', '../DB/ref_euk_rep_genomes.050.nhr', '../DB/ref_euk_rep_genomes.108.nhr', '../DB/ref_euk_rep_genomes.086.nhr', '../DB/ref_euk_rep_genomes.057.nhr', '../DB/ref_euk_rep_genomes.062.nhr', '../DB/ref_euk_rep_genomes.146.nhr', '../DB/ref_euk_rep_genomes.019.nhr', '../DB/ref_euk_rep_genomes.141.nhr', '../DB/ref_euk_rep_genomes.065.nhr', '../DB/ref_euk_rep_genomes.017.nhr', '../DB/ref_euk_rep_genomes.133.nhr', '../DB/ref_euk_rep_genomes.134.nhr', '../DB/ref_euk_rep_genomes.010.nhr', '../DB/ref_euk_rep_genomes.148.nhr']
+2025-12-04 18:52:24,820 - INFO - blastn is installed and accessible
+2025-12-04 18:52:24,821 - INFO - Initialized PathogenSimilarityAnalyzer for /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/barcode04 (platform: nanopore, strictness: Fast, file_exts: ['fastq.gz'])
+2025-12-04 18:52:24,830 - INFO - Loaded BLAST parameters from strictness_setting.yaml
+2025-12-04 18:52:24,831 - INFO - Starting analysis for /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/barcode04 (platform: nanopore, strictness: Fast)
+2025-12-04 18:52:24,831 - INFO - Preprocessing reads...
+2025-12-04 18:52:24,831 - INFO - Preprocessing reads for nanopore
+2025-12-04 18:52:24,831 - INFO - Nanopore preprocessing: Consider running Porechop for adapter trimming
+2025-12-04 18:52:24,831 - INFO - Loading reads...
+2025-12-04 18:52:24,833 - INFO - Found 29 files
+Processing files:   0%|          | 0/29 [00:00<?, ?it/s]Processing files:  24%|██▍       | 7/29 [00:00<00:00, 68.76it/s]Processing files:  83%|████████▎ | 24/29 [00:00<00:00, 126.54it/s]Processing files: 100%|██████████| 29/29 [00:00<00:00, 128.40it/s]
+2025-12-04 18:52:25,063 - INFO - Processed 1746 reads → /tmp/tmpqvkoy6hm/all_reads.fasta
+2025-12-04 18:52:25,064 - INFO - Loaded qualities for 1746 reads.
+2025-12-04 18:52:25,064 - INFO - Running BLAST analysis with nanopore and Fast parameters...
+2025-12-04 18:52:25,064 - INFO - Running BLAST command against ../DB/ref_viruses_rep_genomes with 64 threads: blastn -db ../DB/ref_viruses_rep_genomes -query /tmp/tmpqvkoy6hm/all_reads.fasta -outfmt 5 -out /tmp/tmpqvkoy6hm/all_reads_ref_viruses_rep_genomes.xml -evalue 100.0 -word_size 20 -perc_identity 55 -max_target_seqs 8 -qcov_hsp_perc 25 -gapopen 12 -gapextend 6 -num_threads 64 -task megablast
+2025-12-04 18:52:27,496 - INFO - BLAST completed against ../DB/ref_viruses_rep_genomes
+Processing BLAST records (ref_viruses_rep_genomes): 0it [00:00, ?it/s]Processing BLAST records (ref_viruses_rep_genomes): 525it [00:00, 5246.65it/s]Processing BLAST records (ref_viruses_rep_genomes): 1050it [00:00, 5121.07it/s]Processing BLAST records (ref_viruses_rep_genomes): 1583it [00:00, 5213.60it/s]Processing BLAST records (ref_viruses_rep_genomes): 1746it [00:00, 5228.00it/s]
+2025-12-04 18:52:27,832 - INFO - Running BLAST command against ../DB/ref_prok_rep_genomes with 64 threads: blastn -db ../DB/ref_prok_rep_genomes -query /tmp/tmpqvkoy6hm/all_reads.fasta -outfmt 5 -out /tmp/tmpqvkoy6hm/all_reads_ref_prok_rep_genomes.xml -evalue 100.0 -word_size 20 -perc_identity 55 -max_target_seqs 8 -qcov_hsp_perc 25 -gapopen 12 -gapextend 6 -num_threads 64 -task megablast
+2025-12-04 18:54:50,088 - INFO - BLAST completed against ../DB/ref_prok_rep_genomes
+Processing BLAST records (ref_prok_rep_genomes): 0it [00:00, ?it/s]Processing BLAST records (ref_prok_rep_genomes): 179it [00:00, 1787.54it/s]Processing BLAST records (ref_prok_rep_genomes): 374it [00:00, 1879.58it/s]Processing BLAST records (ref_prok_rep_genomes): 596it [00:00, 2033.28it/s]Processing BLAST records (ref_prok_rep_genomes): 800it [00:00, 1978.30it/s]Processing BLAST records (ref_prok_rep_genomes): 999it [00:00, 1830.07it/s]Processing BLAST records (ref_prok_rep_genomes): 1186it [00:00, 1841.71it/s]Processing BLAST records (ref_prok_rep_genomes): 1372it [00:00, 1815.18it/s]Processing BLAST records (ref_prok_rep_genomes): 1591it [00:00, 1925.65it/s]Processing BLAST records (ref_prok_rep_genomes): 1746it [00:00, 1916.02it/s]
+2025-12-04 18:54:51,004 - INFO - Running BLAST command against ../DB/ref_euk_rep_genomes with 64 threads: blastn -db ../DB/ref_euk_rep_genomes -query /tmp/tmpqvkoy6hm/all_reads.fasta -outfmt 5 -out /tmp/tmpqvkoy6hm/all_reads_ref_euk_rep_genomes.xml -evalue 100.0 -word_size 20 -perc_identity 55 -max_target_seqs 8 -qcov_hsp_perc 25 -gapopen 12 -gapextend 6 -num_threads 64 -task megablast
+2025-12-04 19:23:48,862 - INFO - BLAST completed against ../DB/ref_euk_rep_genomes
+Processing BLAST records (ref_euk_rep_genomes): 0it [00:00, ?it/s]Processing BLAST records (ref_euk_rep_genomes): 167it [00:00, 1667.84it/s]Processing BLAST records (ref_euk_rep_genomes): 350it [00:00, 1760.42it/s]Processing BLAST records (ref_euk_rep_genomes): 580it [00:00, 1999.02it/s]Processing BLAST records (ref_euk_rep_genomes): 780it [00:00, 1968.11it/s]Processing BLAST records (ref_euk_rep_genomes): 977it [00:00, 1789.47it/s]Processing BLAST records (ref_euk_rep_genomes): 1159it [00:00, 1795.47it/s]Processing BLAST records (ref_euk_rep_genomes): 1341it [00:00, 1657.94it/s]Processing BLAST records (ref_euk_rep_genomes): 1553it [00:00, 1789.80it/s]Processing BLAST records (ref_euk_rep_genomes): 1746it [00:00, 1817.37it/s]
+2025-12-04 19:23:50,240 - INFO - Found 17465 pathogen hits.
+2025-12-04 19:23:50,245 - INFO - Fetching taxonomy for 381 unique accessions with rate limit.
+Fetching taxonomy:   0%|          | 0/127 [00:00<?, ?it/s]Fetching taxonomy:   1%|          | 1/127 [00:00<01:06,  1.90it/s]Fetching taxonomy:   2%|▏         | 2/127 [00:01<01:03,  1.96it/s]Fetching taxonomy:   2%|▏         | 3/127 [00:01<01:02,  1.97it/s]Fetching taxonomy:   3%|▎         | 4/127 [00:02<01:01,  1.98it/s]Fetching taxonomy:   4%|▍         | 5/127 [00:02<01:01,  1.99it/s]Fetching taxonomy:   5%|▍         | 6/127 [00:03<01:00,  1.99it/s]Fetching taxonomy:   6%|▌         | 7/127 [00:03<01:00,  1.99it/s]Fetching taxonomy:   6%|▋         | 8/127 [00:04<00:59,  1.99it/s]Fetching taxonomy:   7%|▋         | 9/127 [00:04<00:59,  2.00it/s]Fetching taxonomy:   8%|▊         | 10/127 [00:05<00:58,  2.00it/s]Fetching taxonomy:   9%|▊         | 11/127 [00:05<00:58,  2.00it/s]Fetching taxonomy:   9%|▉         | 12/127 [00:06<00:57,  2.00it/s]Fetching taxonomy:  10%|█         | 13/127 [00:06<00:57,  2.00it/s]Fetching taxonomy:  11%|█         | 14/127 [00:07<00:56,  2.00it/s]Fetching taxonomy:  12%|█▏        | 15/127 [00:07<00:56,  2.00it/s]Fetching taxonomy:  13%|█▎        | 16/127 [00:08<00:55,  2.00it/s]Fetching taxonomy:  13%|█▎        | 17/127 [00:08<00:55,  2.00it/s]Fetching taxonomy:  14%|█▍        | 18/127 [00:09<00:54,  2.00it/s]Fetching taxonomy:  15%|█▍        | 19/127 [00:09<00:54,  2.00it/s]Fetching taxonomy:  16%|█▌        | 20/127 [00:10<00:53,  2.00it/s]Fetching taxonomy:  17%|█▋        | 21/127 [00:10<00:53,  2.00it/s]Fetching taxonomy:  17%|█▋        | 22/127 [00:11<00:52,  2.00it/s]Fetching taxonomy:  18%|█▊        | 23/127 [00:11<00:52,  2.00it/s]Fetching taxonomy:  19%|█▉        | 24/127 [00:12<00:51,  2.00it/s]Fetching taxonomy:  20%|█▉        | 25/127 [00:12<00:51,  2.00it/s]Fetching taxonomy:  20%|██        | 26/127 [00:13<00:50,  2.00it/s]Fetching taxonomy:  21%|██▏       | 27/127 [00:13<00:50,  2.00it/s]Fetching taxonomy:  22%|██▏       | 28/127 [00:14<00:49,  2.00it/s]Fetching taxonomy:  23%|██▎       | 29/127 [00:14<00:49,  2.00it/s]Fetching taxonomy:  24%|██▎       | 30/127 [00:15<00:48,  2.00it/s]Fetching taxonomy:  24%|██▍       | 31/127 [00:15<00:48,  2.00it/s]Fetching taxonomy:  25%|██▌       | 32/127 [00:16<00:47,  2.00it/s]Fetching taxonomy:  26%|██▌       | 33/127 [00:16<00:47,  2.00it/s]Fetching taxonomy:  27%|██▋       | 34/127 [00:17<00:46,  2.00it/s]Fetching taxonomy:  28%|██▊       | 35/127 [00:17<00:46,  2.00it/s]Fetching taxonomy:  28%|██▊       | 36/127 [00:18<00:45,  2.00it/s]Fetching taxonomy:  29%|██▉       | 37/127 [00:18<00:45,  2.00it/s]Fetching taxonomy:  30%|██▉       | 38/127 [00:19<00:44,  2.00it/s]Fetching taxonomy:  31%|███       | 39/127 [00:19<00:44,  2.00it/s]Fetching taxonomy:  31%|███▏      | 40/127 [00:20<00:43,  2.00it/s]Fetching taxonomy:  32%|███▏      | 41/127 [00:20<00:43,  2.00it/s]Fetching taxonomy:  33%|███▎      | 42/127 [00:21<00:42,  2.00it/s]Fetching taxonomy:  34%|███▍      | 43/127 [00:21<00:42,  2.00it/s]Fetching taxonomy:  35%|███▍      | 44/127 [00:22<00:41,  2.00it/s]Fetching taxonomy:  35%|███▌      | 45/127 [00:22<00:41,  2.00it/s]Fetching taxonomy:  36%|███▌      | 46/127 [00:23<00:40,  2.00it/s]Fetching taxonomy:  37%|███▋      | 47/127 [00:23<00:40,  2.00it/s]Fetching taxonomy:  38%|███▊      | 48/127 [00:24<00:39,  2.00it/s]Fetching taxonomy:  39%|███▊      | 49/127 [00:24<00:39,  2.00it/s]Fetching taxonomy:  39%|███▉      | 50/127 [00:25<00:38,  2.00it/s]Fetching taxonomy:  40%|████      | 51/127 [00:25<00:38,  2.00it/s]Fetching taxonomy:  41%|████      | 52/127 [00:26<00:37,  2.00it/s]Fetching taxonomy:  42%|████▏     | 53/127 [00:26<00:37,  2.00it/s]Fetching taxonomy:  43%|████▎     | 54/127 [00:27<00:36,  2.00it/s]Fetching taxonomy:  43%|████▎     | 55/127 [00:27<00:36,  2.00it/s]Fetching taxonomy:  44%|████▍     | 56/127 [00:28<00:35,  2.00it/s]Fetching taxonomy:  45%|████▍     | 57/127 [00:28<00:35,  2.00it/s]Fetching taxonomy:  46%|████▌     | 58/127 [00:29<00:34,  2.00it/s]Fetching taxonomy:  46%|████▋     | 59/127 [00:29<00:34,  2.00it/s]2025-12-04 19:24:19,973 - WARNING - HTTP 429 for NC_056748, retrying after 1 seconds...
+Fetching taxonomy:  47%|████▋     | 60/127 [00:30<00:33,  2.00it/s]2025-12-04 19:24:20,329 - WARNING - HTTP 429 for NC_058158, retrying after 1 seconds...
+Fetching taxonomy:  48%|████▊     | 61/127 [00:30<00:33,  2.00it/s]Fetching taxonomy:  49%|████▉     | 62/127 [00:31<00:32,  2.00it/s]Fetching taxonomy:  50%|████▉     | 63/127 [00:31<00:32,  2.00it/s]Fetching taxonomy:  50%|█████     | 64/127 [00:32<00:31,  2.00it/s]Fetching taxonomy:  51%|█████     | 65/127 [00:32<00:31,  2.00it/s]Fetching taxonomy:  52%|█████▏    | 66/127 [00:33<00:30,  2.00it/s]Fetching taxonomy:  53%|█████▎    | 67/127 [00:33<00:30,  2.00it/s]Fetching taxonomy:  54%|█████▎    | 68/127 [00:34<00:29,  2.00it/s]Fetching taxonomy:  54%|█████▍    | 69/127 [00:34<00:29,  2.00it/s]Fetching taxonomy:  55%|█████▌    | 70/127 [00:35<00:28,  2.00it/s]Fetching taxonomy:  56%|█████▌    | 71/127 [00:35<00:28,  2.00it/s]Fetching taxonomy:  57%|█████▋    | 72/127 [00:36<00:27,  2.00it/s]Fetching taxonomy:  57%|█████▋    | 73/127 [00:36<00:27,  2.00it/s]Fetching taxonomy:  58%|█████▊    | 74/127 [00:37<00:26,  2.00it/s]Fetching taxonomy:  59%|█████▉    | 75/127 [00:37<00:26,  2.00it/s]Fetching taxonomy:  60%|█████▉    | 76/127 [00:38<00:25,  2.00it/s]Fetching taxonomy:  61%|██████    | 77/127 [00:38<00:25,  2.00it/s]2025-12-04 19:24:28,809 - WARNING - HTTP 429 for NC_065957, retrying after 1 seconds...
+Fetching taxonomy:  61%|██████▏   | 78/127 [00:39<00:24,  2.00it/s]Fetching taxonomy:  62%|██████▏   | 79/127 [00:39<00:24,  2.00it/s]Fetching taxonomy:  63%|██████▎   | 80/127 [00:40<00:23,  2.00it/s]2025-12-04 19:24:30,659 - WARNING - HTTP 429 for NC_065975, retrying after 1 seconds...
+Fetching taxonomy:  64%|██████▍   | 81/127 [00:40<00:23,  2.00it/s]2025-12-04 19:24:31,038 - WARNING - HTTP 429 for NC_065957, retrying after 2 seconds...
+Fetching taxonomy:  65%|██████▍   | 82/127 [00:41<00:22,  2.00it/s]2025-12-04 19:24:31,532 - WARNING - HTTP 429 for NC_072867, retrying after 1 seconds...
+Fetching taxonomy:  65%|██████▌   | 83/127 [00:41<00:22,  2.00it/s]Fetching taxonomy:  66%|██████▌   | 84/127 [00:42<00:21,  2.00it/s]Fetching taxonomy:  67%|██████▋   | 85/127 [00:42<00:21,  2.00it/s]Fetching taxonomy:  68%|██████▊   | 86/127 [00:43<00:20,  2.00it/s]Fetching taxonomy:  69%|██████▊   | 87/127 [00:43<00:20,  2.00it/s]2025-12-04 19:24:34,023 - WARNING - HTTP 429 for NC_073633, retrying after 1 seconds...
+Fetching taxonomy:  69%|██████▉   | 88/127 [00:44<00:19,  2.00it/s]Fetching taxonomy:  70%|███████   | 89/127 [00:44<00:19,  2.00it/s]Fetching taxonomy:  71%|███████   | 90/127 [00:45<00:18,  2.00it/s]Fetching taxonomy:  72%|███████▏  | 91/127 [00:45<00:18,  2.00it/s]Fetching taxonomy:  72%|███████▏  | 92/127 [00:46<00:17,  2.00it/s]Fetching taxonomy:  73%|███████▎  | 93/127 [00:46<00:17,  2.00it/s]Fetching taxonomy:  74%|███████▍  | 94/127 [00:47<00:16,  2.00it/s]Fetching taxonomy:  75%|███████▍  | 95/127 [00:47<00:16,  2.00it/s]2025-12-04 19:24:37,815 - WARNING - HTTP 429 for NC_080600, retrying after 1 seconds...
+Fetching taxonomy:  76%|███████▌  | 96/127 [00:48<00:15,  2.00it/s]Fetching taxonomy:  76%|███████▋  | 97/127 [00:48<00:15,  2.00it/s]Fetching taxonomy:  77%|███████▋  | 98/127 [00:49<00:14,  2.00it/s]Fetching taxonomy:  78%|███████▊  | 99/127 [00:49<00:14,  2.00it/s]Fetching taxonomy:  79%|███████▊  | 100/127 [00:50<00:13,  2.00it/s]Fetching taxonomy:  80%|███████▉  | 101/127 [00:50<00:13,  2.00it/s]Fetching taxonomy:  80%|████████  | 102/127 [00:51<00:12,  2.00it/s]Fetching taxonomy:  81%|████████  | 103/127 [00:51<00:12,  2.00it/s]Fetching taxonomy:  82%|████████▏ | 104/127 [00:52<00:11,  2.00it/s]Fetching taxonomy:  83%|████████▎ | 105/127 [00:52<00:11,  2.00it/s]Fetching taxonomy:  83%|████████▎ | 106/127 [00:53<00:10,  2.00it/s]Fetching taxonomy:  84%|████████▍ | 107/127 [00:53<00:10,  2.00it/s]Fetching taxonomy:  85%|████████▌ | 108/127 [00:54<00:09,  2.00it/s]Fetching taxonomy:  86%|████████▌ | 109/127 [00:54<00:09,  2.00it/s]Fetching taxonomy:  87%|████████▋ | 110/127 [00:55<00:08,  2.00it/s]2025-12-04 19:24:45,383 - WARNING - HTTP 429 for NC_088923, retrying after 1 seconds...
+Fetching taxonomy:  87%|████████▋ | 111/127 [00:55<00:08,  2.00it/s]Fetching taxonomy:  88%|████████▊ | 112/127 [00:56<00:07,  2.00it/s]Fetching taxonomy:  89%|████████▉ | 113/127 [00:56<00:07,  2.00it/s]Fetching taxonomy:  90%|████████▉ | 114/127 [00:57<00:06,  2.00it/s]Fetching taxonomy:  91%|█████████ | 115/127 [00:57<00:06,  2.00it/s]Fetching taxonomy:  91%|█████████▏| 116/127 [00:58<00:05,  2.00it/s]Fetching taxonomy:  92%|█████████▏| 117/127 [00:58<00:05,  2.00it/s]Fetching taxonomy:  93%|█████████▎| 118/127 [00:59<00:04,  2.00it/s]Fetching taxonomy:  94%|█████████▎| 119/127 [00:59<00:04,  2.00it/s]Fetching taxonomy:  94%|█████████▍| 120/127 [01:00<00:03,  2.00it/s]2025-12-04 19:24:50,390 - WARNING - HTTP 429 for NC_092859, retrying after 1 seconds...
+Fetching taxonomy:  95%|█████████▌| 121/127 [01:00<00:03,  2.00it/s]Fetching taxonomy:  96%|█████████▌| 122/127 [01:01<00:02,  2.00it/s]Fetching taxonomy:  97%|█████████▋| 123/127 [01:01<00:02,  2.00it/s]Fetching taxonomy:  98%|█████████▊| 124/127 [01:02<00:01,  2.00it/s]Fetching taxonomy:  98%|█████████▊| 125/127 [01:02<00:01,  2.00it/s]Fetching taxonomy:  99%|█████████▉| 126/127 [01:03<00:00,  2.00it/s]Fetching taxonomy: 100%|██████████| 127/127 [01:03<00:00,  2.00it/s]Fetching taxonomy: 100%|██████████| 127/127 [01:03<00:00,  2.00it/s]
+2025-12-04 19:24:55,190 - WARNING - HTTP 429 for NW_017257753, retrying after 1 seconds...
+2025-12-04 19:24:55,191 - WARNING - HTTP 429 for NW_016107617, retrying after 1 seconds...
+2025-12-04 19:24:58,105 - WARNING - HTTP 429 for NW_018389211, retrying after 1 seconds...
+2025-12-04 19:24:59,022 - WARNING - HTTP 429 for NW_020313005, retrying after 1 seconds...
+2025-12-04 19:25:00,703 - WARNING - HTTP 429 for NW_020337930, retrying after 1 seconds...
+2025-12-04 19:25:05,953 - WARNING - HTTP 429 for NW_022161435, retrying after 1 seconds...
+2025-12-04 19:25:06,931 - WARNING - HTTP 429 for NW_022161762, retrying after 1 seconds...
+2025-12-04 19:25:08,384 - WARNING - HTTP 429 for NW_022161435, retrying after 2 seconds...
+2025-12-04 19:25:09,451 - WARNING - HTTP 429 for NW_022995462, retrying after 1 seconds...
+2025-12-04 19:25:13,847 - WARNING - HTTP 429 for NW_024037072, retrying after 1 seconds...
+2025-12-04 19:25:14,635 - WARNING - HTTP 429 for NW_024606612, retrying after 1 seconds...
+2025-12-04 19:25:18,381 - WARNING - HTTP 429 for NW_025577977, retrying after 1 seconds...
+2025-12-04 19:25:18,752 - WARNING - HTTP 429 for NW_026099245, retrying after 1 seconds...
+2025-12-04 19:25:19,382 - WARNING - HTTP 429 for NW_026570235, retrying after 1 seconds...
+2025-12-04 19:25:21,189 - WARNING - HTTP 429 for NW_026571140, retrying after 1 seconds...
+2025-12-04 19:25:21,559 - WARNING - HTTP 429 for NW_026623050, retrying after 1 seconds...
+2025-12-04 19:25:21,559 - WARNING - HTTP 429 for NW_026570235, retrying after 2 seconds...
+2025-12-04 19:25:25,956 - WARNING - HTTP 429 for NZ_AMCK01000014, retrying after 1 seconds...
+2025-12-04 19:25:28,025 - WARNING - HTTP 429 for NZ_AMCK01000014, retrying after 2 seconds...
+2025-12-04 19:25:31,020 - WARNING - HTTP 429 for NZ_AUCQ01000006, retrying after 1 seconds...
+2025-12-04 19:25:39,018 - WARNING - HTTP 429 for NZ_CP012938, retrying after 1 seconds...
+2025-12-04 19:25:42,161 - WARNING - HTTP 429 for NZ_CP031716, retrying after 1 seconds...
+2025-12-04 19:25:45,492 - WARNING - HTTP 429 for NZ_CP043567, retrying after 1 seconds...
+2025-12-04 19:25:48,154 - WARNING - HTTP 429 for NZ_CP055055, retrying after 1 seconds...
+2025-12-04 19:25:57,506 - WARNING - HTTP 429 for NZ_CP104263, retrying after 1 seconds...
+2025-12-04 19:26:00,147 - WARNING - HTTP 429 for NZ_CP113524, retrying after 1 seconds...
+2025-12-04 19:26:02,214 - WARNING - HTTP 429 for NZ_CP113524, retrying after 2 seconds...
+2025-12-04 19:26:03,446 - WARNING - HTTP 429 for NZ_CP120994, retrying after 1 seconds...
+2025-12-04 19:26:05,135 - WARNING - HTTP 429 for NZ_CP120996, retrying after 1 seconds...
+2025-12-04 19:26:08,706 - WARNING - HTTP 429 for NZ_CP140571, retrying after 1 seconds...
+2025-12-04 19:26:10,363 - WARNING - HTTP 429 for NZ_CP148033, retrying after 1 seconds...
+2025-12-04 19:26:13,140 - WARNING - HTTP 429 for NZ_FNEG01000005, retrying after 1 seconds...
+2025-12-04 19:26:14,031 - WARNING - HTTP 429 for NZ_FOHN01000027, retrying after 1 seconds...
+2025-12-04 19:26:24,607 - WARNING - HTTP 429 for NZ_JAAOXG010000056, retrying after 1 seconds...
+2025-12-04 19:26:28,405 - WARNING - HTTP 429 for NZ_JACIDZ010000008, retrying after 1 seconds...
+2025-12-04 19:26:38,665 - WARNING - HTTP 429 for NZ_JAFKME010000018, retrying after 1 seconds...
+2025-12-04 19:26:41,318 - WARNING - HTTP 429 for NZ_JAIMID010000014, retrying after 1 seconds...
+2025-12-04 19:26:42,192 - WARNING - HTTP 429 for NZ_JAJNCT010000036, retrying after 1 seconds...
+2025-12-04 19:26:44,394 - WARNING - HTTP 429 for NZ_JAJNCT010000036, retrying after 2 seconds...
+2025-12-04 19:26:45,014 - WARNING - HTTP 429 for NZ_JANKAS010000001, retrying after 1 seconds...
+2025-12-04 19:26:50,167 - WARNING - HTTP 429 for NZ_JAPEQW010000009, retrying after 1 seconds...
+2025-12-04 19:26:56,792 - WARNING - HTTP 429 for NZ_JAVDQX010000001, retrying after 1 seconds...
+2025-12-04 19:27:04,990 - WARNING - HTTP 429 for NZ_JBHSIH010000001, retrying after 1 seconds...
+2025-12-04 19:27:08,103 - WARNING - HTTP 429 for NZ_JBLRMD010000001, retrying after 1 seconds...
+2025-12-04 19:27:12,522 - WARNING - HTTP 429 for NZ_LDJH01000008, retrying after 1 seconds...
+2025-12-04 19:27:12,896 - WARNING - HTTP 429 for NZ_LDJI01000020, retrying after 1 seconds...
+2025-12-04 19:27:13,261 - WARNING - HTTP 429 for NZ_LDJJ01000021, retrying after 1 seconds...
+2025-12-04 19:27:16,742 - WARNING - HTTP 429 for NZ_LDJM01000015, retrying after 1 seconds...
+2025-12-04 19:27:18,111 - WARNING - HTTP 429 for NZ_LMTZ01000131, retrying after 1 seconds...
+2025-12-04 19:27:19,135 - WARNING - HTTP 429 for NZ_LDJM01000015, retrying after 2 seconds...
+2025-12-04 19:27:23,979 - WARNING - HTTP 429 for NZ_LT992502, retrying after 1 seconds...
+2025-12-04 19:27:35,537 - WARNING - HTTP 429 for NZ_PDWP01000013, retrying after 1 seconds...
+2025-12-04 19:27:45,514 - WARNING - HTTP 429 for NZ_UHFX01000003, retrying after 1 seconds...
+2025-12-04 19:27:48,534 - WARNING - HTTP 429 for NZ_VLKH01000002, retrying after 1 seconds...
+2025-12-04 19:27:48,546 - WARNING - HTTP 429 for NZ_VTFV01000002, retrying after 1 seconds...
+2025-12-04 19:27:54,002 - WARNING - HTTP 429 for NZ_VXLD01000022, retrying after 1 seconds...
+2025-12-04 19:27:57,087 - WARNING - HTTP 429 for NZ_WUQZ01000008, retrying after 1 seconds...
+Applying taxonomy and filtering:   0%|          | 0/17465 [00:00<?, ?it/s]Applying taxonomy and filtering: 100%|██████████| 17465/17465 [00:00<00:00, 606634.31it/s]
+2025-12-04 19:27:59,280 - INFO - Filtered and sorted 10389 hits with similarity > 0% and valid pathogen type (Virus, Bacteria, Parasite)
+2025-12-04 19:27:59,282 - INFO - Creating report directory: /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report
+2025-12-04 19:28:02,929 - INFO - Report saved → /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode04_sim_report.xlsx
+2025-12-04 19:28:02,933 - INFO - Cleaned up temporary directory: /tmp/tmpqvkoy6hm
+2025-12-04 19:28:04,079 - INFO - Loaded cache from pathogen_cache.json with 5394 entries
+2025-12-04 19:28:04,080 - INFO - Initialized PathogenClassifier for /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode04_sim_report.xlsx
+2025-12-04 19:28:04,373 - INFO - Read 'Distilled Report' sheet with 201 rows
+2025-12-04 19:28:04,374 - INFO - Classifying 201 unique binomial names
+  0%|          | 0/201 [00:00<?, ?it/s]2025-12-04 19:28:04,852 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:04,852 - INFO - Classified Comamonas suwonensis as non-pathogenic (PubMed count: 0)
+ 13%|█▎        | 26/201 [00:00<00:03, 55.31it/s]2025-12-04 19:28:05,920 - WARNING - HTTP 429 for Comamonas guangdongensis, retrying after 1 seconds...
+2025-12-04 19:28:08,028 - WARNING - HTTP 429 for Comamonas guangdongensis, retrying after 2 seconds...
+2025-12-04 19:28:10,458 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:10,459 - INFO - Classified Comamonas guangdongensis as non-pathogenic (PubMed count: 0)
+2025-12-04 19:28:11,526 - WARNING - HTTP 429 for Stenotrophomonas terrae, retrying after 1 seconds...
+2025-12-04 19:28:13,367 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:13,368 - INFO - Classified Stenotrophomonas terrae as non-pathogenic (PubMed count: 0)
+ 16%|█▌        | 32/201 [00:08<01:01,  2.74it/s]2025-12-04 19:28:14,010 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:14,010 - INFO - Classified Arthrobacter koreensis as non-pathogenic (PubMed count: 0)
+ 18%|█▊        | 37/201 [00:09<00:51,  3.21it/s]2025-12-04 19:28:14,816 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:14,816 - INFO - Classified Stenotrophomonas ginsengisoli as non-pathogenic (PubMed count: 0)
+ 20%|██        | 41/201 [00:10<00:46,  3.46it/s]2025-12-04 19:28:15,625 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:15,626 - INFO - Classified Alicycliphilus denitrificans K601 as non-pathogenic (PubMed count: 0)
+2025-12-04 19:28:16,691 - WARNING - HTTP 429 for Delftia acidovorans SPH-1, retrying after 1 seconds...
+2025-12-04 19:28:18,881 - WARNING - HTTP 429 for Delftia acidovorans SPH-1, retrying after 2 seconds...
+2025-12-04 19:28:21,434 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:21,435 - INFO - Classified Delftia acidovorans SPH-1 as non-pathogenic (PubMed count: 0)
+ 21%|██▏       | 43/201 [00:17<01:47,  1.48it/s]2025-12-04 19:28:22,625 - WARNING - HTTP 429 for Delftia deserti, retrying after 1 seconds...
+2025-12-04 19:28:24,141 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:24,141 - INFO - Classified Delftia deserti as non-pathogenic (PubMed count: 0)
+ 22%|██▏       | 45/201 [00:19<02:02,  1.28it/s]2025-12-04 19:28:25,207 - WARNING - HTTP 429 for Arthrobacter citreus, retrying after 1 seconds...
+2025-12-04 19:28:26,988 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:26,988 - INFO - Classified Arthrobacter citreus as non-pathogenic (PubMed count: 0)
+ 24%|██▍       | 49/201 [00:22<01:55,  1.31it/s]2025-12-04 19:28:27,590 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:27,591 - INFO - Classified Acinetobacter pragensis as non-pathogenic (PubMed count: 0)
+ 25%|██▍       | 50/201 [00:23<01:52,  1.34it/s]2025-12-04 19:28:28,023 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:28,024 - INFO - Classified Lacrimispora sphenoides as non-pathogenic (PubMed count: 0)
+ 26%|██▌       | 52/201 [00:23<01:33,  1.59it/s]2025-12-04 19:28:28,462 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:28,462 - INFO - Classified Stenotrophomonas muris as non-pathogenic (PubMed count: 1)
+ 26%|██▋       | 53/201 [00:24<01:29,  1.66it/s]2025-12-04 19:28:29,529 - WARNING - HTTP 429 for Undibacterium danionis, retrying after 1 seconds...
+2025-12-04 19:28:30,950 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:30,951 - INFO - Classified Undibacterium danionis as non-pathogenic (PubMed count: 0)
+ 27%|██▋       | 54/201 [00:26<02:13,  1.10it/s]2025-12-04 19:28:31,393 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:31,394 - INFO - Classified Leclercia adecarboxylata as pathogenic (PubMed count: 23)
+ 28%|██▊       | 56/201 [00:27<01:40,  1.45it/s]2025-12-04 19:28:31,821 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:31,821 - INFO - Classified Stenotrophomonas geniculata as non-pathogenic (PubMed count: 0)
+ 29%|██▉       | 58/201 [00:27<01:17,  1.84it/s]2025-12-04 19:28:32,604 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:32,604 - INFO - Classified Mongoliitalea lutea as non-pathogenic (PubMed count: 0)
+ 30%|███       | 61/201 [00:28<01:00,  2.33it/s]2025-12-04 19:28:33,399 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:33,399 - INFO - Classified Maridesulfovibrio salexigens DSM 2638 as non-pathogenic (PubMed count: 0)
+ 31%|███       | 62/201 [00:29<01:07,  2.05it/s]2025-12-04 19:28:33,823 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:33,823 - INFO - Classified Dictyobacter formicarum as non-pathogenic (PubMed count: 0)
+ 32%|███▏      | 64/201 [00:29<00:55,  2.49it/s]2025-12-04 19:28:34,962 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:34,962 - INFO - Classified Comamonas terrigena NBRC 13299 as non-pathogenic (PubMed count: 0)
+ 33%|███▎      | 67/201 [00:30<00:52,  2.55it/s]2025-12-04 19:28:36,102 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:36,102 - INFO - Classified Dyadobacter luteus as non-pathogenic (PubMed count: 0)
+ 36%|███▌      | 72/201 [00:31<00:40,  3.20it/s]2025-12-04 19:28:37,253 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:37,253 - INFO - Classified Pontibacter flavimaris as non-pathogenic (PubMed count: 0)
+ 36%|███▋      | 73/201 [00:32<00:53,  2.41it/s]2025-12-04 19:28:37,721 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:37,721 - INFO - Classified Sphingobacterium composti Ten et al. 2007 non Yoo et al. 2007 as non-pathogenic (PubMed count: 0)
+ 37%|███▋      | 74/201 [00:33<00:53,  2.36it/s]2025-12-04 19:28:38,860 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:38,860 - INFO - Classified Chryseobacterium aquifrigidense as non-pathogenic (PubMed count: 0)
+ 39%|███▉      | 78/201 [00:34<00:44,  2.78it/s]2025-12-04 19:28:40,043 - WARNING - HTTP 429 for Thomasclavelia spiroformis DSM 1552, retrying after 1 seconds...
+2025-12-04 19:28:42,109 - WARNING - HTTP 429 for Thomasclavelia spiroformis DSM 1552, retrying after 2 seconds...
+2025-12-04 19:28:44,556 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:44,556 - INFO - Classified Thomasclavelia spiroformis DSM 1552 as non-pathogenic (PubMed count: 0)
+ 40%|████      | 81/201 [00:40<01:44,  1.15it/s]2025-12-04 19:28:45,801 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:45,801 - INFO - Classified Chryseobacterium vietnamense as non-pathogenic (PubMed count: 0)
+ 41%|████▏     | 83/201 [00:41<01:35,  1.24it/s]2025-12-04 19:28:46,875 - WARNING - HTTP 429 for Pseudodesulfovibrio mercurii, retrying after 1 seconds...
+2025-12-04 19:28:48,941 - WARNING - HTTP 429 for Pseudodesulfovibrio mercurii, retrying after 2 seconds...
+2025-12-04 19:28:51,720 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:51,720 - INFO - Classified Pseudodesulfovibrio mercurii as non-pathogenic (PubMed count: 0)
+ 44%|████▍     | 88/201 [00:47<01:50,  1.02it/s]2025-12-04 19:28:52,869 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:52,869 - INFO - Classified Legionella jamestowniensis DSM 19215 as non-pathogenic (PubMed count: 0)
+ 44%|████▍     | 89/201 [00:48<01:52,  1.00s/it]2025-12-04 19:28:54,002 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:54,002 - INFO - Classified Fidelibacter multiformis as non-pathogenic (PubMed count: 0)
+ 45%|████▍     | 90/201 [00:49<01:53,  1.02s/it]2025-12-04 19:28:55,141 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:55,142 - INFO - Classified Mucilaginibacter arboris as non-pathogenic (PubMed count: 0)
+ 45%|████▌     | 91/201 [00:50<01:54,  1.04s/it]2025-12-04 19:28:55,931 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:55,932 - INFO - Classified Thalassotalea marina as non-pathogenic (PubMed count: 0)
+ 47%|████▋     | 94/201 [00:51<01:16,  1.40it/s]2025-12-04 19:28:56,711 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:56,711 - INFO - Classified Aquirufa aurantiipilula as non-pathogenic (PubMed count: 0)
+ 49%|████▉     | 99/201 [00:52<00:44,  2.30it/s]2025-12-04 19:28:57,495 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:57,495 - INFO - Classified Corynebacterium urogenitale as non-pathogenic (PubMed count: 0)
+ 51%|█████     | 103/201 [00:53<00:34,  2.87it/s]2025-12-04 19:28:58,282 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:58,282 - INFO - Classified Chryseobacterium metallicongregator as non-pathogenic (PubMed count: 0)
+ 53%|█████▎    | 106/201 [00:53<00:30,  3.09it/s]2025-12-04 19:28:58,708 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:28:58,709 - INFO - Classified Chryseobacterium flavum as non-pathogenic (PubMed count: 0)
+ 53%|█████▎    | 107/201 [00:54<00:31,  2.98it/s]2025-12-04 19:28:59,775 - WARNING - HTTP 429 for Enterobacter pasteurii, retrying after 1 seconds...
+2025-12-04 19:29:01,840 - WARNING - HTTP 429 for Enterobacter pasteurii, retrying after 2 seconds...
+2025-12-04 19:29:04,906 - ERROR - Error querying PubMed for Enterobacter pasteurii (Attempt 3/3): HTTP Error 429: Too Many Requests
+ 55%|█████▍    | 110/201 [01:00<01:23,  1.09it/s]2025-12-04 19:29:05,699 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:05,699 - INFO - Classified Martelella lutilitoris as non-pathogenic (PubMed count: 0)
+ 56%|█████▌    | 113/201 [01:01<01:02,  1.42it/s]2025-12-04 19:29:07,217 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:07,217 - INFO - Classified Enterobacter cloacae as pathogenic (PubMed count: 203)
+ 57%|█████▋    | 114/201 [01:02<01:10,  1.23it/s]2025-12-04 19:29:08,022 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:08,022 - INFO - Classified Irregularibacter muris as non-pathogenic (PubMed count: 0)
+ 58%|█████▊    | 116/201 [01:03<00:59,  1.43it/s]2025-12-04 19:29:09,088 - WARNING - HTTP 429 for Candidatus Chlamydia corallus, retrying after 1 seconds...
+2025-12-04 19:29:11,249 - WARNING - HTTP 429 for Candidatus Chlamydia corallus, retrying after 2 seconds...
+2025-12-04 19:29:14,314 - ERROR - Error querying PubMed for Candidatus Chlamydia corallus (Attempt 3/3): HTTP Error 429: Too Many Requests
+ 58%|█████▊    | 117/201 [01:09<02:16,  1.62s/it]2025-12-04 19:29:15,523 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:15,523 - INFO - Classified Arthrobacter gallicola as non-pathogenic (PubMed count: 0)
+ 60%|██████    | 121/201 [01:11<01:18,  1.02it/s]2025-12-04 19:29:16,589 - WARNING - HTTP 429 for Delftia lacustris, retrying after 1 seconds...
+2025-12-04 19:29:18,019 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:18,019 - INFO - Classified Delftia lacustris as non-pathogenic (PubMed count: 1)
+ 61%|██████    | 123/201 [01:13<01:21,  1.05s/it]2025-12-04 19:29:18,446 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:18,446 - INFO - Classified Arthrobacter caoxuetaonis as non-pathogenic (PubMed count: 0)
+ 63%|██████▎   | 126/201 [01:14<00:54,  1.37it/s]2025-12-04 19:29:18,888 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:18,888 - INFO - Classified Arthrobacter jinronghuae as non-pathogenic (PubMed count: 0)
+ 65%|██████▍   | 130/201 [01:14<00:33,  2.09it/s]2025-12-04 19:29:19,723 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:19,723 - INFO - Classified Aureimonas mangrovi as non-pathogenic (PubMed count: 0)
+ 66%|██████▌   | 132/201 [01:15<00:32,  2.15it/s]2025-12-04 19:29:20,168 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:20,168 - INFO - Classified Pseudorhizobium banfieldiae as non-pathogenic (PubMed count: 0)
+ 67%|██████▋   | 135/201 [01:15<00:23,  2.76it/s]2025-12-04 19:29:20,751 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:20,751 - INFO - Classified Comamonas koreensis as non-pathogenic (PubMed count: 0)
+ 68%|██████▊   | 136/201 [01:16<00:25,  2.55it/s]2025-12-04 19:29:21,191 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:21,191 - INFO - Classified Thermomonas mangrovi as non-pathogenic (PubMed count: 0)
+ 68%|██████▊   | 137/201 [01:16<00:25,  2.50it/s]2025-12-04 19:29:21,642 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:21,643 - INFO - Classified Sedimentibacter saalensis as non-pathogenic (PubMed count: 0)
+ 69%|██████▉   | 139/201 [01:17<00:21,  2.90it/s]2025-12-04 19:29:22,831 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:22,831 - INFO - Classified Arthrobacter zhaoxinii as non-pathogenic (PubMed count: 0)
+ 70%|██████▉   | 140/201 [01:18<00:30,  2.00it/s]2025-12-04 19:29:23,294 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:23,295 - INFO - Classified Pseudorhizobium halotolerans as non-pathogenic (PubMed count: 0)
+ 71%|███████   | 142/201 [01:18<00:24,  2.45it/s]2025-12-04 19:29:24,434 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:24,435 - INFO - Classified Pseudorhizobium flavum as non-pathogenic (PubMed count: 0)
+ 71%|███████   | 143/201 [01:20<00:32,  1.81it/s]2025-12-04 19:29:25,698 - WARNING - HTTP 429 for Stenotrophomonas koreensis, retrying after 1 seconds...
+2025-12-04 19:29:27,131 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:27,131 - INFO - Classified Stenotrophomonas koreensis as non-pathogenic (PubMed count: 1)
+ 72%|███████▏  | 144/201 [01:22<00:58,  1.02s/it]2025-12-04 19:29:28,315 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:28,316 - INFO - Classified Stenotrophomonas humi as non-pathogenic (PubMed count: 0)
+ 73%|███████▎  | 146/201 [01:23<00:47,  1.17it/s]2025-12-04 19:29:29,455 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:29,456 - INFO - Classified Chryseobacterium ureilyticum as non-pathogenic (PubMed count: 0)
+ 73%|███████▎  | 147/201 [01:25<00:49,  1.09it/s]2025-12-04 19:29:30,596 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:30,596 - INFO - Classified Chryseobacterium nakagawai as non-pathogenic (PubMed count: 0)
+ 74%|███████▍  | 149/201 [01:26<00:40,  1.27it/s]2025-12-04 19:29:31,390 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:31,391 - INFO - Classified Mesobacterium pallidum as non-pathogenic (PubMed count: 0)
+ 75%|███████▍  | 150/201 [01:27<00:40,  1.27it/s]2025-12-04 19:29:31,826 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:31,826 - INFO - Classified Stenotrophomonas cyclobalanopsidis as non-pathogenic (PubMed count: 0)
+ 75%|███████▌  | 151/201 [01:27<00:35,  1.42it/s]2025-12-04 19:29:32,990 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:32,990 - INFO - Classified Stenotrophomonas pictorum JCM 9942 as non-pathogenic (PubMed count: 0)
+ 76%|███████▌  | 152/201 [01:28<00:40,  1.22it/s]2025-12-04 19:29:34,055 - WARNING - HTTP 429 for Comamonas squillarum, retrying after 1 seconds...
+2025-12-04 19:29:36,233 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:36,233 - INFO - Classified Comamonas squillarum as non-pathogenic (PubMed count: 0)
+ 77%|███████▋  | 154/201 [01:31<00:54,  1.15s/it]2025-12-04 19:29:37,368 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:37,368 - INFO - Classified Chryseobacterium jejuense as non-pathogenic (PubMed count: 0)
+ 77%|███████▋  | 155/201 [01:32<00:52,  1.15s/it]2025-12-04 19:29:38,487 - WARNING - HTTP 429 for Pseudarthrobacter quantipunctorum, retrying after 1 seconds...
+2025-12-04 19:29:40,625 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:40,625 - INFO - Classified Pseudarthrobacter quantipunctorum as non-pathogenic (PubMed count: 0)
+ 80%|███████▉  | 160/201 [01:36<00:34,  1.19it/s]2025-12-04 19:29:41,692 - WARNING - HTTP 429 for Flavobacterium praedii, retrying after 1 seconds...
+2025-12-04 19:29:43,758 - WARNING - HTTP 429 for Flavobacterium praedii, retrying after 2 seconds...
+2025-12-04 19:29:46,189 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:46,190 - INFO - Classified Flavobacterium praedii as non-pathogenic (PubMed count: 0)
+ 81%|████████  | 163/201 [01:41<00:45,  1.19s/it]2025-12-04 19:29:46,969 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:46,970 - INFO - Classified Chryseobacterium artocarpi as non-pathogenic (PubMed count: 0)
+ 84%|████████▍ | 169/201 [01:42<00:21,  1.51it/s]2025-12-04 19:29:48,104 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:48,104 - INFO - Classified Citrobacter tructae as non-pathogenic (PubMed count: 0)
+ 85%|████████▍ | 170/201 [01:43<00:22,  1.40it/s]2025-12-04 19:29:49,272 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:49,272 - INFO - Classified Bilifractor porci as non-pathogenic (PubMed count: 6)
+ 86%|████████▌ | 173/201 [01:44<00:17,  1.63it/s]2025-12-04 19:29:50,338 - WARNING - HTTP 429 for Bowdeniella massiliensis, retrying after 1 seconds...
+2025-12-04 19:29:52,484 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:52,484 - INFO - Classified Bowdeniella massiliensis as non-pathogenic (PubMed count: 0)
+ 87%|████████▋ | 175/201 [01:48<00:21,  1.19it/s]2025-12-04 19:29:53,637 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:53,638 - INFO - Classified Lacrimispora xylanolytica as non-pathogenic (PubMed count: 0)
+ 89%|████████▊ | 178/201 [01:49<00:15,  1.45it/s]2025-12-04 19:29:54,702 - WARNING - HTTP 429 for Neobacillus kokaensis, retrying after 1 seconds...
+2025-12-04 19:29:56,846 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:56,846 - INFO - Classified Neobacillus kokaensis as non-pathogenic (PubMed count: 0)
+ 89%|████████▉ | 179/201 [01:52<00:22,  1.03s/it]2025-12-04 19:29:58,004 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:58,004 - INFO - Classified Lacrimispora indolis DSM 755 as non-pathogenic (PubMed count: 0)
+ 90%|████████▉ | 180/201 [01:53<00:22,  1.05s/it]2025-12-04 19:29:59,147 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:29:59,147 - INFO - Classified Dorea longicatena as non-pathogenic (PubMed count: 4)
+ 93%|█████████▎| 187/201 [01:54<00:07,  1.99it/s]2025-12-04 19:30:00,288 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:00,288 - INFO - Classified Breznakia blatticola as non-pathogenic (PubMed count: 0)
+ 94%|█████████▍| 189/201 [01:55<00:06,  1.94it/s]2025-12-04 19:30:00,719 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:00,719 - INFO - Classified Amedibacterium intestinale as non-pathogenic (PubMed count: 1)
+ 96%|█████████▌| 193/201 [01:56<00:02,  2.73it/s]2025-12-04 19:30:01,514 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:01,515 - INFO - Classified Faecalicoccus pleomorphus as non-pathogenic (PubMed count: 0)
+ 99%|█████████▊| 198/201 [01:57<00:00,  3.51it/s]2025-12-04 19:30:01,957 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:01,957 - INFO - Classified Ruminiclostridium josui JCM 17888 as non-pathogenic (PubMed count: 0)
+ 99%|█████████▉| 199/201 [01:57<00:00,  3.33it/s]2025-12-04 19:30:02,737 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:02,738 - INFO - Classified Acinetobacter guerrae as non-pathogenic (PubMed count: 0)
+100%|█████████▉| 200/201 [01:58<00:00,  2.77it/s]2025-12-04 19:30:03,803 - WARNING - HTTP 429 for Acinetobacter wuhouensis, retrying after 1 seconds...
+2025-12-04 19:30:05,236 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:05,236 - INFO - Classified Acinetobacter wuhouensis as non-pathogenic (PubMed count: 1)
+100%|██████████| 201/201 [02:00<00:00,  1.45it/s]100%|██████████| 201/201 [02:00<00:00,  1.66it/s]
+Classifying binomial names:   0%|          | 0/201 [00:00<?, ?it/s]2025-12-04 19:30:06,015 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:06,016 - INFO - Classified Enterobacter pasteurii as non-pathogenic (PubMed count: 0)
+Classifying binomial names:  55%|█████▌    | 111/201 [00:00<00:00, 142.68it/s]2025-12-04 19:30:06,451 - INFO - Saved cache to pathogen_cache.json
+2025-12-04 19:30:06,451 - INFO - Classified Candidatus Chlamydia corallus as non-pathogenic (PubMed count: 0)
+Classifying binomial names:  63%|██████▎   | 126/201 [00:01<00:00, 94.56it/s] Classifying binomial names: 100%|██████████| 201/201 [00:01<00:00, 165.52it/s]
+2025-12-04 19:30:06,455 - INFO - Classified 14 pathogenic rows and 187 non-pathogenic rows
+2025-12-04 19:30:10,878 - INFO - Appended sheets 'Pathogenic' and 'Non-Pathogenic' to /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode04_sim_report.xlsx
+Analyzing microbes for pathogenicity:   0%|          | 0/201 [00:00<?, ?it/s]Analyzing microbes for pathogenicity:   5%|▌         | 11/201 [00:01<00:18, 10.11it/s]Analyzing microbes for pathogenicity:  37%|███▋      | 74/201 [00:02<00:03, 37.87it/s]Analyzing microbes for pathogenicity:  92%|█████████▏| 185/201 [00:02<00:00, 94.23it/s]Analyzing microbes for pathogenicity: 100%|█████████▉| 200/201 [00:03<00:00, 55.84it/s]Analyzing microbes for pathogenicity: 100%|██████████| 201/201 [00:03<00:00, 54.64it/s]
+Entrez error for Escherichia coli O157:H7 str. Sakai: HTTP Error 429: Too Many Requests
+Updated Excel file with new sheet 'Distilled Report with Pathogenicity' saved to /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/report/barcode04_sim_report.xlsx
+Finished processing /work/ia29ipap-PRJs/PRJS/APD/Data/PREPARETiD_DOMESTICANIMALS_SEPTEMEBER2025_UGANDA/barcode04
