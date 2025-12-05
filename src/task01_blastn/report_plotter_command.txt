@@ -1,0 +1,19 @@
+A python oop with usecase in main function 
+
+provide a open file doialog to select the folder that contains the series of xlsx file
+show the list of files names there
+by selecting each of excel files open its content where there is a sheet (Distilled Report) inside it should be opened and the values from two columns should be opened:
+name of the columns are
+
+Pathogen Type	full pathogen name	Binomial name	Full Taxonomic Tree	similarity value	used tools	coverage ratio	Length of that exact read	quality of read	database	Number of Hits
+
+
+Show this sheet values in strcutured mode and ask for a threshold value for Number of Hits from user that should entered by user 
+
+then based on the the selection of the user,
+all rows upper than the selected threshold from this sheet should be considered and a piechart and staceked bar chart should be show with the max quality and 
+also I need to consider all of the below items for the selected rows in the sheet for plotting in the requested form and easy to eye
+ 
+resoltuion with charming colors should be used for the plots
+the legen based on the colors should be consider 
+I am going to share a sample for these step
